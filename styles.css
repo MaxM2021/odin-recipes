@@ -25,6 +25,10 @@ h1 {
     transform:rotate(270deg);
 }
 
+.shortbreadimg.special {
+    margin-left: 100px;
+}
+
 .imglistitem {
    list-style-type: none;
 }
